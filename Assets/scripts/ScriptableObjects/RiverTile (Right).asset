@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 706ce84a848697446b290c89cd7fa2dd, type: 3}
+  m_Name: RiverTile (Right)
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: f1b613bae659643eb9668caade6d7229, type: 2}
+  Passable: 1
+  OnewayMove: 0
+  ForcedMove: 1
+  Direction: {x: 1, y: 0, z: 0}
