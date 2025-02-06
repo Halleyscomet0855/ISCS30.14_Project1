@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rpg_character_sprites_-_spritesheet_adventurer_0: -8659953135252469619
+      rpg_character_sprites_-_spritesheet_adventurer_1: 4677698015403067544
+      rpg_character_sprites_-_spritesheet_adventurer_10: -2851851021233653803
+      rpg_character_sprites_-_spritesheet_adventurer_2: 3859517619515015793
+      rpg_character_sprites_-_spritesheet_adventurer_3: 3886495428364465049
+      rpg_character_sprites_-_spritesheet_adventurer_4: 1698644957639620794
+      rpg_character_sprites_-_spritesheet_adventurer_5: 2871328328165031471
+      rpg_character_sprites_-_spritesheet_adventurer_6: 797205517573869589
+      rpg_character_sprites_-_spritesheet_adventurer_7: 1042898807163279486
+      rpg_character_sprites_-_spritesheet_adventurer_8: 7983521378650315345
+      rpg_character_sprites_-_spritesheet_adventurer_9: -4325520901491686044
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
